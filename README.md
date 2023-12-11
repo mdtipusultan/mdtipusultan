@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Introduction
-Welcome to my GitHub profile! I'm [Tipu], a passionate iOS developer with a focus on creating seamless user experiences. This README provides an overview of my projects, skills, and interests.
+Welcome to my GitHub profile! I'm [Tipu], a passionate iOS developer with a focus on creating seamless user experiences. This README provides an overview of my projects, skills, and interests. 
 
 ## Skills
 - Swift
