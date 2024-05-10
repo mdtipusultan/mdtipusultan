@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm [Tipu], a passionate iOS developer with a focu
 ## Skills
 - Swift
 - UIKit
-- Interface Builder
+- SwiftUI
 - Realm db
 - RESTful APIs
 - Git
